@@ -4,11 +4,11 @@ A case study on Advancing SDG 7: Enhancing Access to Affordable, Reliable, Susta
 Author: Dhillipkumar M
 
 
-Introduction
+Introduction:
 
 This repository contains a case study focused on Sustainable Development Goal 7 (SDG 7), which aims to ensure access to affordable, reliable, sustainable, and modern energy for all.
 
-Contents
+Contents:
 
 Jupyter Notebook: Analysis and insights on enhancing energy access.
 
@@ -16,7 +16,7 @@ Data: Relevant datasets used for the analysis.
 
 Reports: Summary and detailed findings from the case study.
 
-Key Objectives
+Key Objectives:
 
 Assess current access to affordable and reliable energy.
 
@@ -24,7 +24,7 @@ Analyze sustainable and modern energy solutions.
 
 Identify challenges and propose actionable strategies.
 
-Key Findings
+Key Findings:
 
 Energy Access: Analysis of current energy accessibility and affordability.
 
@@ -32,10 +32,10 @@ Sustainability: Evaluation of sustainable energy sources and their implementatio
 
 Modern Solutions: Insights into modern energy technologies and infrastructure.
 
-Conclusion
+Conclusion:
 
 Improving access to sustainable and modern energy is crucial for advancing SDG 7. This study provides valuable insights and recommendations to enhance energy access globally.
 
-Contact
+Contact:
 
 For queries, contact Dhillipkumar M at dhillipkumar2001@gmail.com
